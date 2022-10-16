@@ -1,6 +1,6 @@
 # Random-Quote-Generator
 
-JS-Project 1
+FSJS Project 1
 
 Project Overview
 
